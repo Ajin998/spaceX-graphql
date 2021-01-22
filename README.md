@@ -1,4 +1,4 @@
-# SpaceX application using graphql for fetching data
+# SpaceX application using express-graphql as a backend for fetching data
 
 ## Summary
 This project demonstrate how we can fetch data from graphql instead of REST api approach
