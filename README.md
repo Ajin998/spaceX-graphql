@@ -3,7 +3,13 @@
 ## Summary
 This project demonstrate how we can fetch data from graphql instead of REST api approach
 
-## Instructions
+## Technologies used
+
+1. GraphQL
+2. Node.js
+3. Express
+
+## Project Snippet along with small descriptions.
 
 1. To fetch all the launches by spaceX we specify launches as a root query.
 
