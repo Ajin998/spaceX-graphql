@@ -1,0 +1,18 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "Spacex app that will fetch all the history of the launches of the rocket",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Ajin Varghese",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  }
+}
