@@ -30,6 +30,18 @@ npm start
 5. Head to localhost:5000/graphql
 6. You will notice that a GUI will open in your browser where you can simply query and get the result of the query, Basically a playground for graphql queries.
 
+# Instruction for setting environment variables:-
+
+1. Make a new file in your root directory as .env
+2. Inside .env file mention PORT=5000
+
+---
+**NOTE:-**
+```
+Setting env variabes is optional
+```
+---
+
 ## Project Snippet along with small descriptions.
 
 1. To fetch all the launches by spaceX we specify launches as a root query.
