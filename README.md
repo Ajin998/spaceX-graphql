@@ -63,10 +63,12 @@ Setting env variable for PORT is optional
 ![alt text](https://user-images.githubusercontent.com/73870819/105542498-7009ec80-5d1f-11eb-9a89-1110560a5947.png)
 
 3. To fetch all rockets
-   ![alt text](https://user-images.githubusercontent.com/73870819/105572981-5e0c6600-5d80-11eb-8a1d-59feb4d3e839.png)
+
+![alt text](https://user-images.githubusercontent.com/73870819/105572981-5e0c6600-5d80-11eb-8a1d-59feb4d3e839.png)
 
 4. To fetch only single rocket with id
-   ![alt text](https://user-images.githubusercontent.com/73870819/105573005-8d22d780-5d80-11eb-90e1-236ce2da4dbd.png)
+
+![alt text](https://user-images.githubusercontent.com/73870819/105573005-8d22d780-5d80-11eb-90e1-236ce2da4dbd.png)
 
 ## Author
 
