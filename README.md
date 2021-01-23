@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project demonstrate how we can fetch data from graphql instead of REST api approach
+This project is simply a graphql server that demonstrate how we can fetch data using graphql api instead of REST api approach where in a single query we can get much information as we want which is not the case with REST approach that needs couple of endpoints to do that.
 
 ## Technologies used
 
