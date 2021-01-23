@@ -9,6 +9,27 @@ This project demonstrate how we can fetch data from graphql instead of REST api 
 2. Node.js
 3. Express
 
+## Instructions and Installations:-
+
+1. Firsty to get started you have to clone this repository in your local repository by typing:-
+```
+$ git clone https://github.com/Ajin998/spaceX-graphql.git
+```
+2. After that you have to install all the node dependencies in your project by doing:-
+```
+npm install
+```
+This will install all the node dependencies in your project
+
+3. After installing all the dependencies you are good to go with the application, Now to get start you have to type
+```
+npm start
+
+```
+4. You will notice that the backend server is running on port 5000
+5. Head to localhost:5000/graphql
+6. You will notice that a GUI will open in your browser where you can simply query and get the result of the query, Basically a playground for graphql queries.
+
 ## Project Snippet along with small descriptions.
 
 1. To fetch all the launches by spaceX we specify launches as a root query.
